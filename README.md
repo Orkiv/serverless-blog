@@ -70,7 +70,7 @@ Retrieve blog content from your sapphire account.
 
 
 
-### /BLOG/
+### /BLOG/{ID}
 
 	GET /BLOG/{ id }
 
@@ -90,7 +90,7 @@ Get the specified blog from your sapphire account.
 
 - { result : [Blog](#blog)  }
 
-### /MEDIA
+### /MEDIA/{ID}
 
 	GET /MEDIA/{ ID }
 
