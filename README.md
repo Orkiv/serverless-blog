@@ -55,7 +55,7 @@ Retrieve blog content from your sapphire account.
 #### Parameters
 
 - string search : String to match with blog titles
-- string group : Blog group of cursor, use `trending` to get trending topics.
+- string group : Blog group ID of cursor, use `trending` to get trending topics. Separate multiple group id by commma.
 - int page : Page number of cursor.
 
 #### CURL 
