@@ -1,6 +1,6 @@
 ![Sapphire Blog](https://orkiv.com/sapphire/bloglogo.png)
 
-# Sapphire server-less blog
+# Sapphire server-less blog (API blogger)
 
 Sapphire server-less blog is an extension to the Orkiv CMS platform. Serverless blogging enables you to integrate a blogging system within seconds, whilst giving clients a full WYISWYG interface to create and sort content as they please. 
 
@@ -99,7 +99,7 @@ Get the binary of the specified media from your account.
 
 ## Models
 
-###Blog
+### Blog
 
 A blog post written within sapphire CMS.
 
@@ -116,7 +116,7 @@ A blog post written within sapphire CMS.
 - publ : Bool, published status of blog
 
 
-###Author
+### Author
 
 A content producer of a Sapphire account.
 
@@ -130,7 +130,7 @@ A content producer of a Sapphire account.
 - lname : String, URL to LinkedIn profile.
 
 
-###Group
+### Group
 
 A blog group.
 
