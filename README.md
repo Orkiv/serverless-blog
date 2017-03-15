@@ -1,4 +1,4 @@
-![Sapphire Blog](https://orkiv.com/sapphire/bloglogo.png)
+![Sapphire Blog](https://github.com/Orkiv/serverless-blog/raw/master/Screen%20Shot%202017-03-15%20at%2010.13.06%20AM.png)
 
 # Sapphire server-less blog (API blogger)
 
