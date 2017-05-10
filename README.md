@@ -4,11 +4,11 @@
 
 Sapphire server-less blog is an extension to the Orkiv CMS platform. Serverless blogging enables you to integrate a blogging system within seconds, whilst giving clients a full WYISWYG interface to create and sort content as they please. 
 
-Learn more about sapphire [here](https://orkiv.com/sapphire-web).
+Learn more about sapphire [here](https://www.orkiv.com/sapphire-web).
 
 ## Requirements
 
-1. Orkiv Sapphire account.[Login](https://orkiv.com/sapphire)
+1. Orkiv Sapphire account.[Login](https://www.orkiv.com/sapphire)
 
 ## Overview
 
